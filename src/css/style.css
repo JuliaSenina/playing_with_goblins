@@ -6,7 +6,7 @@
 }
   
 .hammer {
-  cursor: url(../img/hammer.png), auto;
+  cursor: url(../img/hammer.png), pointer;
 }
   
 .status {
